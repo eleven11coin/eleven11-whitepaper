@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/eleven11coin/eleven11-whitepaper/raw/main/A_digital_graphic_design_logo_for_Eleven11_($1111).png" alt="Eleven11 Banner" />
-</p>⏰ Eleven11 ($1111)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/03ebe9a7-70e7-44d4-b2fa-8c33341e8c46" />
+⏰ Eleven11 ($1111)
 
 Numbers that hit different.
 
